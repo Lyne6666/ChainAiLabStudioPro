@@ -1,2 +1,1 @@
-# ChainAiLabStudioPro
-Advanced ChainAiLabStudioPro project
+.
